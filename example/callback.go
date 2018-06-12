@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"tcp"
+	"github.com/diablur/tcp-go"
 )
 
 type EchoCallback struct{}
