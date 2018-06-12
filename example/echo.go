@@ -4,7 +4,7 @@ import (
 	"log"
 	"time"
 
-	"tcp"
+	"github.com/diablur/tcp-go"
 )
 
 func main() {
