@@ -4,7 +4,7 @@ import (
 	"bufio"
 	"io"
 
-	"tcp"
+	"github.com/diablur/tcp-go"
 )
 
 type EchoProtocol struct {
